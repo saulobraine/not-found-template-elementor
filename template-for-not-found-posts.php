@@ -9,8 +9,7 @@ use ElementorPro\Modules\QueryControl\Module as QueryControlModule;
 use ElementorPro\Plugin;
 
 /**
- * Plugin Name:       Elementor - Not Found Template
- * Plugin URI:        https://braine.dev
+ * Plugin Name:       Template para Posts Não Encontrados
  * Description:       Create a section in Elementor "Posts Widget" and "Loop Grid Widget" for set template when not found posts.
  * Version:           1.0.0
  * Requires PHP:      7.4
